@@ -45,7 +45,7 @@ layout: default
             {% if page.talkurl %}<a href="{{ post.talkurl }}">talk</a> &middot;{% endif %}
             {% if page.slidesurl %}<a href="{{ post.slidesurl }}">slides</a> &middot;{% endif %}
             {% if page.posterurl %}<a href="{{ post.posterurl }}">poster</a> &middot;{% endif %}
-              {% if page.rawciteurl %}<a href="{{ post.rawciteurl }}">中文版</a> &middot;{% endif %}
+              {% if page.rawciteurl %}<a href="{{ post.rawciteurl }}">cn</a> &middot;{% endif %}
               {% if page.bibtexurl %}<a href="{{ post.bibtexurl }}">bibtex</a>{% endif %}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
