@@ -1,0 +1,24 @@
+---
+title: "Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis"
+collection: publications
+permalink: /publication/NeruIPS2024_2
+excerpt: ''
+date: 2024-11-11
+authors:
+  - 'Taihang Hu'
+  - 'Linxuan Li'
+  - 'Joost van de Weijer'
+  - 'Hongcheng Gao'
+  - 'Fahad Shahbaz Khan'
+  - 'jian Yang'
+  - 'Ming-Ming Cheng'
+  - 'Kai Wang'
+  - 'Yaxing Wang'
+  
+  
+venue: '38th Conference on Neural Information Processing Systems (NeurIPS 2024)'
+paperurl: 'https://arxiv.org/pdf/2411.07132'
+rawciteurl: 'http://yaxingwang.github.io/files/NeruIPS2024_2/Tome_Merging_For_Training_Free_Semantic_Binding_in_Text_to_Image_Synthesis_cn.pdf'
+---
+
+Although text-to-image (T2I) models exhibit remarkable generation capabilities, they frequently fail to accurately bind semantically related objects or attributes in the input prompts; a challenge termed semantic binding. Previous approaches either involve intensive fine-tuning of the entire T2I model or require users or large language models to specify generation layouts, adding complexity. In this paper, we define semantic binding as the task of associating a given object with its attribute, termed attribute binding, or linking it to other related sub-objects, referred to as object binding. We introduce a novel method called Token Merging (ToMe), which enhances semantic binding by aggregating relevant tokens into a single composite token. This ensures that the object, its attributes and sub-objects all share the same cross-attention map. Additionally, to address potential confusion among main objects with complex textual prompts, we propose end token substitution as a complementary strategy. To further refine our approach in the initial stages of T2I generation, where layouts are determined, we incorporate two auxiliary losses, an entropy loss and a semantic binding loss, to iteratively update the composite token to improve the generation integrity. We conducted extensive experiments to validate the effectiveness of ToMe, comparing it against various existing methods on the T2I-CompBench and our proposed GPT-4o object binding benchmark. Our method is particularly effective in complex scenarios that involve multiple objects and attributes, which previous methods often fail to address. 
