@@ -70,7 +70,7 @@ See my recent publications for more details.
   <sub><p style="line-height:15px"><b>Yaxing Wang</b>, Abel Gonzalez-Garcia, Chenshen Wu, Luis Herranz, Fahad Shahbaz Khan, Shangling Jui, Jian Yang, Joost van de Weijer
   <p style="line-height:15px">IJCV, 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2104.13742"></a> </p>   
-  </sub>
+  <!-- </sub> -->
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
@@ -78,7 +78,7 @@ See my recent publications for more details.
   <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, <b>Yaxing Wang</b>, Jian Yang
   <p style="line-height:15px">CVMJ, 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2303.15649"></a> </p>   
-  </sub>
+  <!-- </sub> -->
 </blockquote>
 
 
