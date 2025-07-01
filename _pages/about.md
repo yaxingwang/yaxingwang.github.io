@@ -67,18 +67,18 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Minegan++: Mining generative models for efficient knowledge transfer to limited data domains</h4>   
-  <sub><p style="line-height:15px"><b>Yaxing Wang</b>, Abel Gonzalez-Garcia, Chenshen Wu, Luis Herranz, Fahad Shahbaz Khan, Shangling Jui, Jian Yang, Joost van de Weijer
+  <sub><p style="line-height:15px"><b>Yaxing Wang</b>, Abel Gonzalez-Garcia, Chenshen Wu, Luis Herranz, Fahad Shahbaz Khan, Shangling Jui, Jian Yang, Joost van de Weijer</p> 
   <p style="line-height:15px">IJCV, 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2104.13742"></a> </p>   
-  <!-- </sub> -->
+  </sub>
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Stylediffusion: Prompt-embedding inversion for text-based editing</h4>   
-  <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, <b>Yaxing Wang</b>, Jian Yang
+  <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, <b>Yaxing Wang</b>, Jian Yang</p> 
   <p style="line-height:15px">CVMJ, 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2303.15649"></a> </p>   
-  <!-- </sub> -->
+  </sub>
 </blockquote>
 
 
@@ -86,7 +86,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Token merging for training-free semantic binding in text-to-image synthesis</h4>   
-  <sub><p style="line-height:15px">Taihang Hu, Linxuan Li, Joost van de Weijer, Hongcheng Gao, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, <b>Yaxing Wang</b>
+  <sub><p style="line-height:15px">Taihang Hu, Linxuan Li, Joost van de Weijer, Hongcheng Gao, Fahad Shahbaz Khan, Jian Yang, Ming-Ming Cheng, Kai Wang, <b>Yaxing Wang</b></p> 
   <p style="line-height:15px">Neuips, 2024</p>   
   <p style="line-height:15px"> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/f8ce25dcb2cb0eb8a24b492bf3e84695-Paper-Conference.pdf"></a> </p>   
   </sub>
@@ -95,7 +95,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference</h4>   
-  <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Fahad Khan, Tao Liu, Linxuan Li, Shiqi Yang, <b>Yaxing Wang</b>, Ming-Ming Cheng
+  <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Fahad Khan, Tao Liu, Linxuan Li, Shiqi Yang, <b>Yaxing Wang</b>, Ming-Ming Cheng</p> 
   <p style="line-height:15px">Neuips, 2024</p>   
   <p style="line-height:15px"> <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/9ad996b5c45130de2bc00b60d8607904-Paper-Conference.pdf"></a> </p>   
   </sub>
@@ -104,7 +104,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models</h4>   
-  <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, <b>Yaxing Wang</b>, Jian Yang
+  <sub><p style="line-height:15px">Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, <b>Yaxing Wang</b>, Jian Yang</p> 
   <p style="line-height:15px">ICLR, 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2402.05375"></a> </p>   
   </sub>
@@ -112,7 +112,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Adaptive texture filtering for single-domain generalized segmentation</h4>   
-  <sub><p style="line-height:15px">Xinhui Li, Mingjia Li, <b>Yaxing Wang</b>, Chuan-Xian Ren, Xiaojie Guo
+  <sub><p style="line-height:15px">Xinhui Li, Mingjia Li, <b>Yaxing Wang</b>, Chuan-Xian Ren, Xiaojie Guo</p> 
   <p style="line-height:15px">AAAI, 2023</p>   
   <p style="line-height:15px"> <a href="https://ojs.aaai.org/index.php/AAAI/article/download/25229/25001"></a> </p>   
   </sub>
@@ -120,7 +120,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>3D-aware multi-class image-to-image translation with NeRFs</h4>   
-  <sub><p style="line-height:15px">Senmao Li, Joost Van De Weijer, <b>Yaxing Wang</b>, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang
+  <sub><p style="line-height:15px">Senmao Li, Joost Van De Weijer, <b>Yaxing Wang</b>, Fahad Shahbaz Khan, Meiqin Liu, Jian Yang</p> 
   <p style="line-height:15px">CVPR, 2023</p>   
   <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D-Aware_Multi-Class_Image-to-Image_Translation_With_NeRFs_CVPR_2023_paper.pdf"></a> </p>   
   </sub>
