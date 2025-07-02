@@ -58,8 +58,13 @@ See my recent publications for more details.
 
 ## Preprint
 
-#### "*" means authors contributed equally and "#" means corresponding author.
-
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration</h4>   
+  <sub><p style="line-height:15px">Senmao Li, Kai Wang, Joost van de Weijer, Fahad Shahbaz Khan, Chun-Le Guo, Shiqi Yang, <b>Yaxing Wang</b>, Jian Yang, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">arxiv, 2025</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2502.02215"></a> </p>   
+  </sub>
+</blockquote>
 
 
 
@@ -83,6 +88,41 @@ See my recent publications for more details.
 
 
 ## Selected Conference Publications ([Google Scholar](https://scholar.google.es/citations?hl=en&user=6CsB8k0AAAAJ))
+
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing</h4>   
+  <sub><p style="line-height:15px">Taihang Hu, Linxuan Li, Kai Wang, <b>Yaxing Wang</b>, Jian Yang, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">ICCV, 2025</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2504.10434"></a> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt</h4>   
+  <sub><p style="line-height:15px">Tao Liu, Kai Wang, Senmao Li, Joost van de Weijer, Fahad Shahbaz Khan, Shiqi Yang, <b>Yaxing Wang</b>, Jian Yang, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">ICLR, 2025</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2501.13554"></a> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability</h4>   
+  <sub><p style="line-height:15px">Lei Wang, Senmao Li, Fei Yang, Jianye Wang, Ziheng Zhang, Yuhan Liu, <b>Yaxing Wang</b>, Jian Yang</p> 
+  <p style="line-height:15px">CVPR, 2025</p>   
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Not_All_Parameters_Matter_Masking_Diffusion_Models_for_Enhancing_Generation_CVPR_2025_paper.pdf"></a> </p>   
+  </sub>
+</blockquote>
+
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>One-Way Ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models</h4>   
+  <sub><p style="line-height:15px">Senmao Li, Lei Wang, Kai Wang, Tao Liu, Jiehang Xie, Joost van de Weijer, Fahad Shahbaz Khan, Shiqi Yang, <b>Yaxing Wang</b>, Jian Yang</p> 
+  <p style="line-height:15px">CVPR, 2025</p>   
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.pdf"></a> </p>   
+  </sub>
+</blockquote>
+
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Token merging for training-free semantic binding in text-to-image synthesis</h4>   
