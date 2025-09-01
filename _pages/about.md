@@ -31,7 +31,10 @@ See my recent publications for more details.
 
 ## News
 
-+ xxx
++ I am ICLR2026 Area Chair
++ I am an speaker at CCF CAD/CG 2025 
++ I am an speaker at RACV 2025
++ I am an speaker at VALSE 2025
 
 <span class='anchor' id='-group'></span>
 
