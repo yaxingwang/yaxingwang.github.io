@@ -175,7 +175,7 @@ See my recent publications for more details.
 
 ## Academic Services
 
-+ xxx
++ ICLR2026 Area Chair
 
 <span class='anchor' id='-awards'></span>
 
