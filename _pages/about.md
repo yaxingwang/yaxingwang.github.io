@@ -30,7 +30,7 @@ See my recent publications for more details.
 
 
 ## News
-
++ Two papers are accepted by NeurIPS2025
 + I am ICLR2026 Area Chair
 + I am an speaker at CCF CAD/CG 2025 
 + I am an speaker at RACV 2025
@@ -46,6 +46,7 @@ See my recent publications for more details.
 + [Senmao Li](https://scholar.google.com/citations?user=F96SDKwAAAAJ&hl=en) (Diffusion Model, 2022-)
 + [Kangneng Zhou](https://scholar.google.com/citations?user=y1vvxWYAAAAJ&hl=en) (3D Vision, 2023-)
 + [Linxuan Li](https://scholar.google.com/citations?user=LJzZEXUAAAAJ&hl=zh-CN&oi=ao) (Diffusion Model, 2024-)
++ [Lei Wang](https://gudaochangsheng.github.io/) (Multimodal Large  Model, co-supervise with [Jian Yang](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=t6AONNl4pZ5la8fwtaQrXw==&yxsh=z70ppxVSQAs=&zydm=eNM2K21sgHA=), 2024-)
 + [Yang Cheng]() (Diffusion Model, 2024-)
 
 
