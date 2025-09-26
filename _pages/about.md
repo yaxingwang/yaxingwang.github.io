@@ -31,6 +31,9 @@ See my recent publications for more details.
 
 ## News
 + Two papers are accepted by NeurIPS2025
++ Two papers are accepted by CVPR2025 and ICCV2025
++ Two papers are accepted by ICLR2025
++ [1Prompt1Story](https://github.com/byliutao/1Prompt1Story) are accepted by ICLR2025 as **spotlight**
 + I am ICLR2026 Area Chair
 + I am an speaker at CCF CAD/CG 2025 
 + I am an speaker at RACV 2025
