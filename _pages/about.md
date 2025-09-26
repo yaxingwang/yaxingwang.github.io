@@ -61,7 +61,7 @@ See my recent publications for more details.
 + [Tao Liu]() (Diffusion Model, 2024-)
 + [Lizhao Qi]() (Image restoration, co-supervise with  [Ming-Ming Cheng](https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en), 2025-)
 + [Zhiqian Li]() (Video restoration, 2025-)
-+ [Haixin Li]() (Diffusion Model, 2025-)
++ [Haixin Liu]() (Diffusion Model, 2025-)
 + [Dong Xiang]() (Diffusion Model, co-supervise with [Ming-Ming Cheng](https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en), 2025-)
 <span class='anchor' id='-pub'></span>
 
