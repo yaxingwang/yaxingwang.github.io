@@ -31,7 +31,7 @@ See my recent publications for more details.
 
 ## News
 + Two papers are accepted by NeurIPS2025
-+ Two papers are accepted by CVPR2025 and ICCV2025
++ Three papers are accepted by CVPR2025 and ICCV2025
 + Two papers are accepted by ICLR2025
 + [1Prompt1Story](https://github.com/byliutao/1Prompt1Story) are accepted by ICLR2025 as **spotlight**
 + I am ICLR2026 Area Chair
@@ -46,20 +46,23 @@ See my recent publications for more details.
 #### Ph.D. Students
 
 
-+ [Senmao Li](https://scholar.google.com/citations?user=F96SDKwAAAAJ&hl=en) (Diffusion Model, 2022-)
++ [Senmao Li](https://scholar.google.com/citations?user=F96SDKwAAAAJ&hl=en) (Image editing, 2022-)
 + [Kangneng Zhou](https://scholar.google.com/citations?user=y1vvxWYAAAAJ&hl=en) (3D Vision, 2023-)
 + [Linxuan Li](https://scholar.google.com/citations?user=LJzZEXUAAAAJ&hl=zh-CN&oi=ao) (Diffusion Model, 2024-)
 + [Lei Wang](https://gudaochangsheng.github.io/) (Multimodal Large  Model, co-supervise with [Jian Yang](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=t6AONNl4pZ5la8fwtaQrXw==&yxsh=z70ppxVSQAs=&zydm=eNM2K21sgHA=), 2024-)
 + [Yang Cheng]() (Diffusion Model, 2024-)
++ [Zixun Xia]() (Diffusion Model, 2025-)
+
 
 
 #### Master Students
 
 + [Taihang Hu](https://scholar.google.com/citations?user=JtjoOmEAAAAJ&hl=en) (Diffusion Model, 2023-)
 + [Tao Liu]() (Diffusion Model, 2024-)
-
-
- 
++ [Lizhao Qi]() (Image restoration, co-supervise with Mingming Cheng, 2025-)
++ [Zhiqian Li]() (Video restoration, 2025-)
++ [Haixin Li]() (Diffusion Model, 2025-)
++ [Dong Xiang]() (Diffusion Model, co-supervise with Mingming Cheng, 2025-)
 <span class='anchor' id='-pub'></span>
 
 
