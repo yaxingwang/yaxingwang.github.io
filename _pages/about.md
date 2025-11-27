@@ -22,7 +22,7 @@ Yaxing is an associate professor of college of computer science at Nankai Univer
 
 ## Research Interests：
 
-My research covers a range of `GAN`, `Transfer Learning`, `Domain Adaptation` and `Lifelong learning`. 
+My research covers a range of `AICG`,`Image generation`,`Video generation`, `Transfer Learning`, `Domain Adaptation` and `Lifelong learning`. 
 
 See my recent publications for more details.
 
@@ -30,6 +30,7 @@ See my recent publications for more details.
 
 
 ## News
++ I am ICML2026 Area Chair
 + Two papers are accepted by NeurIPS2025
 + Three papers are accepted by CVPR2025 and ICCV2025
 + Two papers are accepted by ICLR2025
@@ -59,6 +60,8 @@ See my recent publications for more details.
 
 + [Taihang Hu](https://scholar.google.com/citations?user=JtjoOmEAAAAJ&hl=en) (Diffusion Model, 2023-)
 + [Tao Liu]() (Diffusion Model, 2024-)
++ [Minxing Luo](https://scholar.google.com/citations?user=cpIySUoAAAAJ&hl=zh-CN) (OCR, co-supervise with [Jian Yang](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=t6AONNl4pZ5la8fwtaQrXw==&yxsh=z70ppxVSQAs=&zydm=eNM2K21sgHA=), 2024-)
+
 + [Lizhao Qi]() (Image restoration, co-supervise with  [Ming-Ming Cheng](https://scholar.google.com/citations?user=huWpVyEAAAAJ&hl=en), 2025-)
 + [Zhiqian Li]() (Video restoration, 2025-)
 + [Haixin Liu]() (Diffusion Model, 2025-)
